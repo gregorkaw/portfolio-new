@@ -7,7 +7,7 @@ const Footer = () => {
       <p className="pt-2">
         Made by me too!:{" "}
         <a
-          href="https://github.com/gregorkaw/portfolio-page"
+          href="https://github.com/gregorkaw/portfolio-new"
           className="underline hover:text-violet-700 duration-300 decoration-violet-700"
         >
           link
