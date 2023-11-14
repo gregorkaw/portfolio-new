@@ -25,7 +25,7 @@ const Navbar = ({
     "text-slate-200 hover:cursor-pointer hover:text-violet-700 duration-300";
   return (
     <div
-      className="duration-500 fixed top-0 z-50 h-[8vh] w-full flex justify-center items-center gap-8 lg:gap-96 md:gap-48"
+      className="duration-500 fixed top-0 z-50 h-[8vh] w-full flex justify-center items-center gap-8 lg:gap-48"
       style={{ backgroundColor: scrollY > 300 ? "black" : "" }}
     >
       <a onClick={handleHeroScroll} className={buttonClass}>
